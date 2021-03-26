@@ -1,6 +1,5 @@
 import * as React from 'react';
 import {CardLink} from "../../../components/CardLink";
-import {Link} from "../../../components/Link";
 
 interface Props {
 
